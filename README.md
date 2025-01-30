@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @kevinnapit
-- 👀 I’m interested in fullstack developer
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me kevinphy92@gmail.com
-- 💻 No stuck to fullstack
-
-<!---
-kevinnapit/kevinnapit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Web Developer | PHP & CodeIgniter Enthusiast | Passionate About Clean Code & Optimizing User Experience
+🔍 Currently diving deeper into JavaScript, Web Security, and Building Scalable Applications
+📚 Lifelong Learner | Open Source Contributor | Always Exploring New Technologies
+⚡ Creating functional and user-friendly web applications, one line of code at a time.
