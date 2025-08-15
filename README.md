@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinnapit&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnapit" /> </p>
 
-- 🔭 I’m currently working at [Dinas Komunikasi dan Informatika Kabupaten Toba](https://diskominfo.tobakab.go.id/)
+- 🔭 I’m currently working at [Dinas Komunikasi dan Informatika Kabupaten Toba](https://tobakab.go.id/)
 
 - 🌱 I’m currently learning **I'm currently learning Python and JavaScript, including their environments.**
 
