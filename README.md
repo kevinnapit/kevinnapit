@@ -1,5 +1,3 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://kevinnapit.io)
-
 <h1 align="center">Hi 👋, I'm Kevin Napitupulu</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5f57a052225385.590964f2b2df2.gif">
