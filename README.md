@@ -1,6 +1,7 @@
 <h1 align="center"> I'm Kevin </h1>
 <h3 align="center">A passionate backend developer</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5f57a052225385.590964f2b2df2.gif">
+
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/dc/4a/cf/dc4acf1074e02c5e7f687ba99efb360c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinnapit&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnapit" /> </p>
 
